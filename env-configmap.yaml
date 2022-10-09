@@ -7,7 +7,7 @@ data:
   POSTGRES_PASSWORD: Hardemola29
   POSTGRES_HOST: udagram-db.ciib9vzeawu7.us-east-1.rds.amazonaws.com
   POSTGRES_DB: udagramdb
-  AWS_BUCKET: fawasudagrambucket
+  AWS_BUCKET: arn:aws:s3:::fawasudagrambucket
   AWS_REGION: us-east-1
   AWS_PROFILE: eks-user
   JWT_SECRET: testing
